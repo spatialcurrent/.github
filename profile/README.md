@@ -1,5 +1,7 @@
 # Spatial Current, Inc.
 
+Internet-scale Geospatial Search and Visualization using Natural Language
+
 ## Go Repos
 
 - [go-flat](https://github.com/spatialcurrent/go-flat)
