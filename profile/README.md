@@ -2,9 +2,12 @@
 
 Internet-scale Geospatial Search and Visualization using Natural Language
 
-## Go Repos
+## Go Programs
 
 - [gocat](https://github.com/spatialcurrent/gocat)
+
+## Go Libraries
+
 - [go-flat](https://github.com/spatialcurrent/go-flat)
 - [go-math](https://github.com/spatialcurrent/go-math)
 - [go-fit](https://github.com/spatialcurrent/go-fit)
